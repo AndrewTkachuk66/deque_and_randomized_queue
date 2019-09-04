@@ -1,0 +1,16 @@
+
+Rsquid:EmptyStatementUsageCheckU"Remove this empty statement.(Åñ­õşÿÿÿÿ8õÃ…éÍ-
+isquid:S2259j"FA "NullPointerException" could be thrown; "lastNode" is nullable here.(à×‘òùÿÿÿÿ8õÃ…éÍ-
+wsquid:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(…Ñ—´8õÃ…éÍ-
+msquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(°«Èƒşÿÿÿÿ8õÃ…éÍ-
+W
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(Ì­¼¨8Ê¤ïÍ-
+|squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Û©ùÿÿÿÿ8õÃ…éÍ-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾’Åúüÿÿÿÿ8şÖØéÍ-
+_squid:S11268"AReplace this if-then-else statement by a single return statement.(æúàæ8õÃ…éÍ-
+wsquid:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚¨Ğî8õÃ…éÍ-
+msquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Á©üƒıÿÿÿÿ8õÃ…éÍ-
+|squid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶†µËûÿÿÿÿ8õÃ…éÍ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£²¹8ó«‰Î-

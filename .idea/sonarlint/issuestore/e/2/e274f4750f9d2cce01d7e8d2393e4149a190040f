@@ -1,0 +1,24 @@
+
+[
+squid:S106r"9Replace this use of System.out or System.err by a logger.(€—üÒÿÿÿÿÿ8Ÿ’ğŠÎ-
+V
+squid:S106}"9Replace this use of System.out or System.err by a logger.(‚¥××8µ˜°îÍ-
+Gsquid:S2140\")Use "java.util.Random.nextInt()" instead.(áÂœ8µ˜°îÍ-
+Nsquid:S1905f"+Remove this unnecessary cast to "Iterator".(¡Æ°†ÿÿÿÿÿ8µ˜°îÍ-
+msquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(˜²ûøÿÿÿÿ8µ˜°îÍ-
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(° ş—8Ÿ’ğŠÎ-
+V
+squid:S106y"9Replace this use of System.out or System.err by a logger.(É—¹ø8µ˜°îÍ-
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(—ÌĞß8ÄŞ¡ŠÎ-
+[
+squid:S106v"9Replace this use of System.out or System.err by a logger.(âÂ½Èûÿÿÿÿ8ÒŠèŠÎ-
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(÷ÁˆÚ8Ÿ’ğŠÎ-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(—ÌĞß8˜Ğ’ŠÎ-
+[
+squid:S106~"9Replace this use of System.out or System.err by a logger.(€—üÒÿÿÿÿÿ8µ˜°îÍ-
+V
+squid:S106x"9Replace this use of System.out or System.err by a logger.(óğø˜8µ˜°îÍ-
